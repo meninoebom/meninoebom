@@ -1,13 +1,16 @@
 # Hey, I'm Brandon
 
-I'm a software engineer who loves building things that connect people to music, movement, and each other.
+Software engineer who loves shipping useful things and learning whatever's needed to get there.
 
-Most of my work lives at the intersection of creative technology and real-world impact — whether that's an [interactive dance-music system](https://github.com/meninoebom/ralf-gesture-studio), an [AI scheduling bot](https://github.com/meninoebom/huddle) that lives in your group text, or a [puzzle game that teaches cryptography](https://github.com/meninoebom/cleartext).
+I mostly work in Python and TypeScript across the stack — APIs, frontends, CLIs, and desktop apps. Lately I've been spending a lot of time with AI tooling, real-time systems, and Rust.
 
-I care about writing clean, thoughtful code — but I care more about what it makes possible.
+A few things I've been building:
 
-**Currently building with:** Python, TypeScript, Rust, Tauri, FastAPI, React, MediaPipe, Tone.js
+- **[Alley-Oop](https://github.com/meninoebom/alleeoop)** — a hosted AI assistant platform
+- **[Cleartext](https://github.com/meninoebom/cleartext)** — a browser-based puzzle game that teaches cryptography
+- **[RALF](https://github.com/meninoebom/ralf-gesture-studio)** — a real-time gesture recognition system (Rust, Tauri, ML pipelines)
+- **[Ports](https://github.com/meninoebom/ports)** — a simple port management CLI for macOS
 
-**Currently curious about:** gesture recognition, embodied interaction, AI-assisted workflows, contemplative technology
+**Building with:** Python, TypeScript, Rust, Tauri, FastAPI, React
 
-**Currently writing:** [Technologies of Remembering](https://github.com/meninoebom/relational-musicality-book) — a web book on Afro-diasporic choreo-musical practices as social technologies
+I like teams that ship, codebases that make sense, and problems worth solving.
